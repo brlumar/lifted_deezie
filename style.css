@@ -1,0 +1,30 @@
+body {
+    background-image: url(images/abstract-3866485.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+    margin: 0;
+    padding-top: 56px; 
+
+}
+#navbar{
+    /* position: fixed; */
+    width: 100vw;
+}
+
+#name {
+    font-family: 'Dancing Script', cursive;
+}
+
+
+.header {
+    font-family: 'Dancing Script', cursive;
+
+}
+
+/* container for laptop image  */
+#image_box{
+max-width: 600px;
+min-height: 600px;
+}
